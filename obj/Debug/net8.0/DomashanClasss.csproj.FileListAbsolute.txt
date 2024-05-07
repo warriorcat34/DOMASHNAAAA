@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Programirane\DomashanClasss\DomashanClasss\bin\Debug\net8.0\DomashanClasss.exe
+C:\Users\Admin\Desktop\Programirane\DomashanClasss\DomashanClasss\bin\Debug\net8.0\DomashanClasss.deps.json
+C:\Users\Admin\Desktop\Programirane\DomashanClasss\DomashanClasss\bin\Debug\net8.0\DomashanClasss.runtimeconfig.json
+C:\Users\Admin\Desktop\Programirane\DomashanClasss\DomashanClasss\bin\Debug\net8.0\DomashanClasss.dll
+C:\Users\Admin\Desktop\Programirane\DomashanClasss\DomashanClasss\bin\Debug\net8.0\DomashanClasss.pdb
+C:\Users\Admin\Desktop\Programirane\DomashanClasss\DomashanClasss\obj\Debug\net8.0\DomashanClasss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Programirane\DomashanClasss\DomashanClasss\obj\Debug\net8.0\DomashanClasss.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Programirane\DomashanClasss\DomashanClasss\obj\Debug\net8.0\DomashanClasss.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Programirane\DomashanClasss\DomashanClasss\obj\Debug\net8.0\DomashanClasss.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Programirane\DomashanClasss\DomashanClasss\obj\Debug\net8.0\DomashanClasss.dll
+C:\Users\Admin\Desktop\Programirane\DomashanClasss\DomashanClasss\obj\Debug\net8.0\refint\DomashanClasss.dll
+C:\Users\Admin\Desktop\Programirane\DomashanClasss\DomashanClasss\obj\Debug\net8.0\DomashanClasss.pdb
+C:\Users\Admin\Desktop\Programirane\DomashanClasss\DomashanClasss\obj\Debug\net8.0\DomashanClasss.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Programirane\DomashanClasss\DomashanClasss\obj\Debug\net8.0\ref\DomashanClasss.dll
